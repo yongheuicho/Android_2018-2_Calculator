@@ -15,4 +15,15 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/btEqual"
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="208dp"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="316dp"
+        android:text="="
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </android.support.constraint.ConstraintLayout>
